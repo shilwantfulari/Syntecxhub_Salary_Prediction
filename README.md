@@ -33,3 +33,15 @@ This proves that relying solely on "Years of Experience" is insufficient for pre
 1. Clone the repository.
 2. Install dependencies: `pip install pandas scikit-learn numpy joblib`
 3. Run the script: `python project_2_salary.py`
+
+🔮 How to Predict New Salaries
+I have included a script to test the model with custom inputs.
+
+Run the prediction script:
+
+Bash
+
+python predict_salary.py
+Enter the details (Years of Experience, Test Score, etc.) when prompted.
+
+The model will output the estimated salary.
